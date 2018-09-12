@@ -11,8 +11,9 @@ import scipy.io.wavfile as siow
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.signal as sig
+import wget
 
-os.chdir('/Users/wader/Geohackweek/Wade_Project522')
+os.chdir('/Users/wader/Geohackweek/whale-detection')
 
 [samp, data] = siow.read(wavefile_name, mmap=False)
 
