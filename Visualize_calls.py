@@ -3,7 +3,7 @@
 #Vizualize blue whales calls recorded on an ocean bottom seismometer in both 
 #the time and frequency domains.
 
-wavefile_name = 'strongCalls.wav'
+wavefile_name = 'newStrongCalls.wav'
 import wave
 import scipy
 import os
@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import scipy.signal as sig
 import wget
 
-os.chdir('/Users/wader/Geohackweek/whale-detection')
+os.chdir('/Users/wader/Geohackweek/Wade_Project522/whale-detection')
 
 [samp, data] = siow.read(wavefile_name, mmap=False)
 

@@ -1,0 +1,11 @@
+name: whaledet
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - ipython
+  - os
+  - scipy
+  - numpy
+  - matplotlib
+	
