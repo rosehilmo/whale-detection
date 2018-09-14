@@ -1,8 +1,8 @@
 # A tutorial on how to use spectrogram cross-correlation to detect blue whale calls.
 
-### This respository contains a tutorial and sample dataset for detecting blue whale calls through spectrogram cross-correlation.
+This respository contains a tutorial and sample dataset for detecting blue whale calls through spectrogram cross-correlation.
 
-For Python users, this tutorial is in a Jupyter notebook:
+### For Python users, this tutorial is in a Jupyter notebook:
 
 First, download this git repository on your local machine.  
 
