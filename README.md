@@ -1,4 +1,4 @@
-# A tutorial on how to use spectrogram cross-correlation to detect a blue whale call.
+# A tutorial on how to use spectrogram cross-correlation to detect blue whale calls.
 
 This respository contains a tutorial and sample dataset for detecting blue whale calls through spectrogram cross-correltaion.
 
